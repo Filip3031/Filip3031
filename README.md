@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [atum-namioty.pl](atum-namioty.pl)
-
 - 💬 Ask me about **React, JS**
 
 - 📫 How to reach me **filip.klos2000@gmail.com**
